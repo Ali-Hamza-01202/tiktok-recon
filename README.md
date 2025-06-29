@@ -18,6 +18,7 @@ A simple and powerful recon tool that gathers **public TikTok user info** using 
 
 ```bash
 git clone link
+playwright install
 cd tiktok-recon
 chmod +x tiktok_recon.py
 pip install -r requirements.txt
