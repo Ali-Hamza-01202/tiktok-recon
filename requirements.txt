@@ -1,2 +1,3 @@
-requests
+TikTokApi
+playwright
 termcolor
